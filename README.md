@@ -1,7 +1,5 @@
 # Exos_C_Merlin
 
-[toc]
-
 ## 1. Nombres premiers
 
 Écrire un programme `prime_numbers` qui prend en argument de ligne de commande un entier positif N et liste les N premiers nombres premiers.
