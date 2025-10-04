@@ -8,6 +8,10 @@
 - Ajouter mes changements : `git add -A`  (dans le dossier du dépôt)
 - Envoyer mes changements : `git commit -m <message>` (dans le dossier du dépôt) puis `git push` (dans le dossier du dépôt)
   - `<message>` est la description des changements.
+ 
+> TOUJOURS faire `git pull` avant de commencer à travailler
+> Faire `git add -A`, `git commit -m <message>` régulièrement
+> TOUJOURS faire `git push` à la fin du travail
 
 ## 1. Nombres premiers
 
