@@ -53,3 +53,5 @@ dkms.conf
 
 # debug information files
 *.dwo
+correction/1_prime_numbers/correction_complete
+correction/1_prime_numbers/correction_complete.c
